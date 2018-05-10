@@ -16,10 +16,13 @@ Build
 
 ```
 cc -std=c99 -Wall kronos.c mpc.c -ledit -lm -o kronos
-```
 
-Run
+Run Repl
 
 ```
 ./kronos
+
+Or run a script
+
 ```
+./kronos mylisp.lisp
