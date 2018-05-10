@@ -895,7 +895,7 @@ int main(int argc, char** argv) {
   
     puts("Kronos Version 0.0.0.0.1");
     // ascii art from https://www.asciiart.eu/mythology/devils
-    puts(".-._                                                   _,-, \n\
+    puts("   .-._                                                   _,-, \n\
     `._`-._                                           _,-'_,' \n\
        `._ `-._                                   _,-' _,' \n\
           `._  `-._        __.-----.__        _,-'  _,' \n\
